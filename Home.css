@@ -91,6 +91,9 @@ div.calendar               {background:#ffffff; padding:0px; opacity:0.8; height
 .games a, .games ul        {color:#005500;}
 .apps                      {background:#008800; opacity:0.8;}
 .apps a, .apps ul          {color:#003300;}
+/*a.autumn                   {font-weight:bold;}*/
+a.spring                   {font-weight:bold;}
+
 div.shopping               {height:580px; 
     padding:0px!important; 
 /*     background:white; */
