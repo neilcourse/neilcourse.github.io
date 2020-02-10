@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- ###################################################################### -->
+<!-- #####                                                            ##### -->
+<!-- #####     www.neilcourse.co.uk                                   ##### -->
+<!-- #####     Copyright 2005 - Neil Course                           ##### -->
+<!-- #####     All rights reserved                                    ##### -->
+<!-- #####                                                            ##### -->
+<!-- ###################################################################### -->
+
+<html>
+  <head>
+    <title>MATH112 - Calculus II</title>
+
+    <LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=all>
+
+    
+
+  </head>
+  
+  <body class=gamma>
+
+    <div class=top> </div>
+    <div class=body>
+      <div><h1>MATH112</h1></div>
+   
+      <table class="navbar" border="0" cellspacing="0" cellpadding="0"><tr><td><iframe
+src="navbar.html" scrolling="no" allowtransparency=true
+      class="navbar" frameborder="0"></iframe></td></tr></table><br>
+   
+      <div class="infobar">
+          <div>
+         <b>MY OFFICE</b><br>
+         Fen Edebiyat Fakultesi, 4. kat, oda 20.
+         </div>
+         
+          <div>
+         <b>MID-TERM EXAM</b><br>
+         23 March 2011 @14:00
+         </div>
+   
+          <div>
+         <b>FINAL EXAM</b><br>
+         tba
+         </div>
+
+          <div>
+         <b>GRADES</b><br>
+<pre>76 &le; AA     </pre><pre>
+70 &le; BA &lt; 76
+64 &le; BB &lt; 70
+58 &le; CB &lt; 64
+52 &le; CC &lt; 58
+46 &le; DC &lt; 52
+40 &le; DD &lt; 46
+20 &le; FD &lt; 40
+ 0 &le; FF &lt; 20</pre>
+         </div>
+
+   
+   
+      </div>
+
+         
+      <div class="main" style="padding-bottom:20px;">
+         <table width=100%>
+            <tr>
+               <td width="80%"><h2>Course:</h2></td>
+               <td><dl>
+                  <dd> MATH112 - Calculus II
+               </dl></td>
+            </tr>
+
+            <tr>
+               <td><h2>Teacher:</h2></td>
+               <td><dl>
+                  <dd> Yard. Do&ccedil;. Dr. Neil Course
+               </dl></td>
+            </tr>
+
+            <tr>
+               <td><h2>Contents:</h2></td>
+               <td><dl>
+                  <dd> Homework 15%
+                  <dd> Mid-Term Exam 25%
+                  <dd> Final Exam 60%
+               </dl></td>
+            <tr>        
+
+            <tr>
+               <td><h2>Lectures:</h2></td>
+               <td><dl>
+                  <dd>Tuesday  11:00-13:00 in room D307
+                  <dd>Wednesday  14:00-16:00 in room D307
+               </dl></td>
+            </tr>
+         
+            <tr>
+               <td><h2>Suggested Text:</h2></td>
+               <td><dl>
+                  <dd><b>Thomas' Calculus</b>
+                  <dd>by George B. Thomas, Maurice D. Weir and Joel R. Hass</dd>
+                  <dd> 11th edition or 12th edition. </dd>
+               </dl></td>
+            </tr>
+   
+            <tr>
+               <td><h2>Homework:</h2></td>
+               <td><dl>
+            <dd>Exercise Sheet 1:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_1.pdf?dl=1"
+            class="file">download</a></dd><p>
+
+            <dd>Exercise Sheet 2:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_2.pdf?dl=1"
+            class="file">download</a></dd><p>
+
+            <dd>Exercise Sheet 3:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_3.pdf?dl=1"
+            class="file">download</a></dd><p>
+
+            <dd>Exercise Sheet 4:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_4.pdf?dl=1"
+            class="file">download</a></dd><p>
+
+            <dd>Exercise Sheet 5:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_5.pdf?dl=1"
+            class="file">download</a> </dd><p>
+
+            <dd>Solutions (part 1):
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_solutions.pdf?dl=1"
+            class="file">download</a> </dd><p>
+
+
+            <dd>Exercise Sheet 6:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_6.pdf?dl=1"
+            class="file">download</a></dd><p>
+
+            <dd>Exercise Sheet 7:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_7.pdf?dl=1"
+            class="file">download</a> </dd><p>
+
+            <dd>Exercise Sheet 8:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_sheet_8.pdf?dl=1"
+            class="file">download</a> (due 27 April 2011 @14:00)</dd><p>
+
+            <dd>Solutions (part 2):
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_exercise_solutions_2.pdf?dl=1"
+            class="file">download</a> </dd><p> 
+
+         </dl></td>
+            <tr>
+          
+            <tr>
+              <td><h2>Practise Exams:</h2></td>
+              <td><dl style="margin-bottom:100px;">
+            <dd>Practise Mid-Term Exam:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_midterm_practise.pdf?dl=1"
+            class="file">download</a></dd><p>
+			
+            <dd>Practise Final Exam:
+            <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_calculus_II_final_practise.pdf?dl=1"
+            class="file">download</a></dd><p> 
+         </dl></td>
+            </tr>
+         </table>
+      </div>
+   
+      
+      <table class="navbar" border="0" cellspacing="0" cellpadding="0"><tr><td><iframe src="navbar.html" scrolling="no"
+      class="navbar" frameborder="0" allowtransparency="true"></iframe></td></tr></table><br>
+      <div class="footer">
+         <iframe src="footer.html" scrolling="no" frameborder="0" class="footer"
+         allowtransparency=true></iframe>
+      </div>
+      <div class="counter">
+
+
+
+      </div>    
+   </div>         
+   <div class=bottom></div>
+   
+      
+
+  </body>
+  <address>www.neilcourse.co.uk</address>
+</html>
+

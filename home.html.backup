@@ -1,0 +1,477 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<HTML>
+<HEAD>
+   <TITLE>Home</TITLE>
+   <LINK REL=StyleSheet HREF="Home.css" TYPE="text/css" MEDIA=all>
+
+<!-- Start iPhone -->
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<link rel="apple-touch-icon" href="/iphone.png" />
+<link media="only screen and (max-device-width: 480px)" href="Homeiphone.css" type= "text/css" rel="stylesheet" />
+<!-- End iPhone -->
+
+
+
+
+<!--    <LINK REL=StyleSheet HREF="http://homeweb1.unifr.ch/coursen/pub/Homeiphone.css" TYPE="text/css"
+MEDIA=all> -->
+
+
+
+<base target="_top" href="http://dl.neilcourse.co.uk/u/12426/">
+</HEAD>
+
+
+
+<BODY>
+<!--<div class=tabs>
+   <img src=tools/tl.gif><img src=tools/t.gif width=50 height=20><img src=tools/tcr.gif
+   ><a href=computer.html><img src=tools/tg.gif width=50 height=20><img src=tools/tcgr.gif></a
+   ><a href=Turkish.txt><img src=tools/tg.gif width=50 height=20><img src=tools/tgr.gif></a>
+</div>-->
+
+<div class=page>
+
+   <div class=columna>
+                           <!-- PRIMARY -->
+      <div class=primary>
+         <ul>
+            <li><a href="http://www.gmail.com">GMail</a> . . . <a href=https://www.google.com/reader/view/?tab=my>Reader</a>
+                        . . . <a href="http://www.google.com/calendar/">Calendar</a><p>
+            <!--<LI><A HREF="http://www.aintitcool.com/">Ain't It Cool News</A>-->
+            <LI><A HREF="http://news.bbc.co.uk/">BBC News</A> (<a href=http://www.livestation.com/channels/10-bbc-world-news-english>watch</a>)
+            <li class=dto><a
+href="http://news.bbc.co.uk/1/hi/not_in_website/syndication/monitoring/media_reports/default.stm"
+               class=dto>BBC Monitoring</a>
+            <LI><A HREF="http://news.bbc.co.uk/sport/">BBC Sport</A>
+            <li class=dto><a href="http://www.bbc.co.uk/radio/">BBC Radio</a> . . .
+               <a href="http://www.bbc.co.uk/fivelive/live/surestream_int.ram"><i>Five Live</i></a>
+            <li><a href=http://www.destructoid.com/>Destructoid</a>
+            <li><a href="http://www.digg.com/news">digg</a>
+            <!--<LI><A HREF=http://www.engadget.com>Engadget</a>-->
+            <LI><A HREF="http://www.football365.com/">Football365</A>
+            <!--<li><a href="http://football.guardian.co.uk/fiver/">Football Fiver</a>-->
+            <!--<li><a href="http://gizmodo.com/">Gizmodo</a>-->
+            <li><a href=http://www.guardian.co.uk/>Guardian</a>
+            <li><a href="http://www.hurriyetdailynews.com/turkey.aspx?pageID=436">Hurriyet Daily News</a>
+            <!--<li><a href="http://www.imdb.com/">IMDB</a>-->
+            <li><a href=http://www.theinquirer.net/>The Inquirer</a>
+			<!--<li><a href=http://www.joystiq.com/>Joystiq</a>-->
+            <!--<li><a href="http://kotaku.com/">Kotaku</a>-->
+            <li><a href="http://www.langtolang.com/">LangToLang</a>
+            <LI class=dto><A HREF="http://zone.msn.com/bridge/">MSN Gaming Zone - Bridge</A>
+            <li><a href="http://www.planet-f1.com/">Planet F1</a> . . <a href=http://scarbsf1.wordpress.com/>Scarbs</a>
+            <li><a href=http://nextbutton.pureprofile.com/>Pure Profile</a>
+            <LI><A HREF="http://www.theregister.co.uk">The Register</A>
+            <li><a href="http://www.sherdog.com/">Sherdog</a> . . <a
+               href=http://fiveouncesofpain.com/>5oz</a> . . <a
+			   href=http://mmajunkie.com/>Junkie</a> . . <a
+			   href="http://www.fightmatrix.com/mma-ranks/">Matrix</a>
+           <!-- <li><a href="http://slashdot.org/">Slash Dot</a>-->
+            <!--<li><a href="http://www.swissinfo.ch/eng/index.html">Swissinfo News</a>-->
+            <LI><a href="http://www.totalrock.com">TotalRock</a> <span class=dto>. . . . <A
+               HREF="http://www.totalrock.com/player/jetcast12.php"><i>lis</i></a><a
+               href="http://icecast.playlouder.com/totalrock.m3u"><i>ten</i></A></span>
+            <!--<LI class=dto><A HREF="http://uk.yahoo.com/">Yahoo!</A> . . . <A
+               HREF="http://uk.play.yahoo.com/games/login?game=Bridge"><i>Games</i></A> . . .<A
+               HREF=http://mail.yahoo.co.uk><i>Mail</i></a>-->
+            <!--<li><a href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>-->
+         </ul>
+         </div>
+
+                              <!-- MEDIA -->
+      <div class=media>
+         <ul>
+<!--             <li><a href="http://neilcourse.servebeer.com:8080/gui/">uTorrent</a><p> -->
+
+	    <li><a href="http://eztv.it/">EZTV</a> <a href=http://1.hidemyass.com/ip-6/encoded/Oi8vZXp0di5pdC8%3D&f=norefer>#</a>  . . . <a href="http://www.bt-chat.com/browse.php?group=3">Mirror</a>
+            <li><a href="http://www.mininova.org/">mininova</a>
+            <li><a href="http://thepiratebay.at/">The Pirate Bay</a>
+            <li><a href="http://torrentspy.com/latest.asp">Torrent Spy</a>
+            <li><a href="http://www.isohunt.com/">iso Hunt</a>
+            <li><a href=http://thebox.bz/browse.php>The Box</a>
+	    <li><a href="http://theempire.bz/browse.php">The Empire</a>
+	    <li><a href="http://www.uknova.com/wsgi/torrent">UK Nova</a>
+            <li><a href=http://xtremewrestlingtorrents.net/browse.php>XWT</a><p>
+            <li><a href="http://www.myp2p.eu/">My P2P</a>
+			<li><a href="http://www.atdhe.net">ATDHE</a>
+            <li><a href=http://www.101greatgoals.com/>101greatgoals</a><p>
+
+            <li><a href="http://epguides.com/">EpGuides</a>
+         </ul>
+         </div>
+
+
+
+                                 <!-- MISC -->
+      <div class=misc>
+         <ul>
+            <li><a
+href=http://www.weather.com/outlook/travel/businesstraveler/local/SZXX0012?from=search_city>Weather
+               Fribourg</a>
+            <li><a href="http://www.cinemotion.ch/">Cinemotion</a>
+            <li><a href="http://www.capcine.ch/">Capcine</a>
+
+            <li><a href="http://www.facebook.com">Facebook</a>
+            <li class=dto><a href="http://albumart.org/">AlbumArt</a>
+            <li class=dto><a href="http://www.metro.co.uk">Metro</a>
+            <li class=dto><a href="http://uk.imdb.com/Recent/UK.html">Film Release Dates</a>
+            <li class=dto><a href="http://www.random.org/nform.html">Random</a>
+               <a href=http://www.random.org/cgi-bin/randnum?num=2&min=1&max=10&col=5>Number</a>
+            <LI><A HREF="http://www.onthebox.com/">OnTheBox</A> . . . . <a
+               href="http://www.bleb.org//tv/all.html?c=bbc1+bbc2+itv1+ch4+five">Bleb</a><p>
+            <li><a href="http://www.dailysudoku.co.uk/sudoku/index.shtml">Daily Sudoku</a>
+            <li><a href="http://www.conceptispuzzles.com/index.aspx?uri=myconceptis">Conceptis</a>
+         </ul>
+         </div>
+
+                                    <!-- PHOTO -->
+      <div class=photography>
+         <ul>
+            <li class=dto><a href="http://wvs.topleftpixel.com/">Top Left Pixel</a>
+            <li class=dto><a href="http://www.dpreview.com/">DP Review</a>
+            <li class=dto><A href="http://www.dpreview.com/forums/forum.asp?forum=1031">350D forum</a><p>
+
+            <li><a href=http://www.flickr.com/photos/neilcourse>Flickr</a>
+            <li><a href="http://www.imageshack.us">Imageshack</a>
+         </ul>
+         </div>
+
+
+
+         <!--                COMPUTER                 -->
+
+      <div class=computer>
+         <ul>
+            <li class=dto><a href="http://userscripts.org/">User Scripts</a>
+
+            <LI class=dto><A HREF="http://www.astalavista.com/">Astalavista</A>
+            <LI class=dto><A HREF="http://www.deluxserials.com/">Deluxserials</A><p>
+
+            <li><a href="http://www.hardocp.com/index.html">HardOCP</a>
+            <li><a href="http://www.custompc.co.uk/">Custom PC</a>
+            <LI><A HREF="http://forum.pcformat.co.uk/index.php">PC Format</A><p>
+
+            <li class=dto><a href="http://webdesign.about.com/od/charactersets/l/bl_htmlcodes.htm">HTML
+character
+codes</a>
+            <li class=dto><a
+href="http://www.ackadia.com/web-design/character-code/character-code-math.php">Maths
+character
+               codes</a>
+            <li class=dto><A href="http://www.htmlhelp.com/">HTMLhelp.com</a>
+            <li class=dto><a href="http://www.htmlhelp.com/reference/css/style-html.html">Linking Style
+sheets</a>
+            <li class=dto><a href="http://www.w3.org/TR/REC-CSS1">CSS level 1</a>
+            <li class=dto><a href="http://builder.com.com/5100-31-5071268.html">CSS reference table</a>
+            <li class=dto><a href=http://barelyfitz.com/screencast/html-training/css/positioning/>CSS
+Positioning in 10
+Steps</a>
+            <li class=dto><a href="http://www.mywebstats.org/">MyWebStats</a><p>
+
+            <li><a
+href="http://vip.asus.com/forum/topic.aspx?SLanguage=en-us&board_id=1&model=P5N32-E+SLI">P5N32-E SLi
+forum</a>
+            <li><a
+href="http://support.asus.com/download/download.aspx?SLanguage=en-us&model=P5N32-E%20SLI">P5N32-E SLi
+downloads</a>
+         </ul>
+         </div>
+
+
+   </div>
+
+
+
+   <div class=columnb>
+
+
+         <!--                TOOLS                 -->
+      <div class=tools>
+
+         <!--                TRANSLATE              -->
+
+         <form action=http://translate.google.com/# method=post><textarea
+            name=text rows=16 cols=29
+            wrap=PHYSICAL class=toolsbox></textarea><br><img src="pixel.gif" width=30 height=5><br>
+         <table style="margin-left:0px; width:270px;"><tr><td><input type="radio" name="langpair"
+            value="fr|en"> French to English<br>
+         <input type="radio" name="langpair" value="en|fr"> English to French<br>
+         <input type="radio" name="langpair"
+            value="tr|en" CHECKED > Turkish to English<br>
+         <input type="radio" name="langpair" value="en|tr"> English to Turkish
+         <input
+            type=hidden name=hl value="en"><input
+            type=hidden name=ie value="UTF8"></td><td align=right><input
+            type=submit value="Translate"></td></tr>
+         </table>
+         </form>
+
+        <p style="margin-bottom:20px;">
+
+
+
+
+
+         <form name="frmSozluk" id="frmSozluk" action="http://www.langtolang.com/">
+            <input id="txtLang" name="txtLang" value="" class=toolsbox/>
+            <span style="display: none;"><select name="selectFrom" id="selectFrom" class=langtolangoption size=2>
+               <option label="English" value="english">English</option>
+               <option label="Turkish" value="turkish" selected="selected">Turkish</option>
+            </select>
+            <select name="selectTo" id="selectTo" class=langtolangoption size=2>
+               <option label="English" value="english" selected="selected">English</option>
+               <option label="Turkish" value="turkish">Turkish</option>
+            </select></span>
+            <input name="submitButton" id="submitButton" value="EN <-> TR" type="submit" />
+         </form>
+
+
+
+
+
+
+
+      </div>
+
+
+
+
+
+                                    <!-- GAMES -->
+      <div class=games>
+         <ul>
+<!--            <li><a href="http://forum.omnipotents.com/search.php?do=getnew">Omnip)o(tentS</a>-->
+
+            <li><a href=http://www.gamespot.com/pc/index.html?tag=nav-top;pc&navclk=pc>GameSpot</a>
+             <a href="http://www.gamespot.com/ps3/index.html">PS3</a>
+             <a href="http://www.gamespot.com/psp/index.html">PSP</a>
+             <a href=http://www.gamespot.com/ds/index.html?tag=nav-top;ds&navclk=ds>DS</a>
+            <li><a href=http://www.eurogamer.net/>EuroGamer</a>
+			 <a href=http://www.eurogamer.net/index.php?platform=pc>PC</a>
+             <a href=http://www.eurogamer.net/index.php?platform=ps3>PS3</a>
+             <a href=http://www.eurogamer.net/index.php?platform=psp>PSP</a>
+             <a href=http://www.eurogamer.net/index.php?platform=ds>DS</a>
+            <li><a href=http://pc.ign.com/>IGN</a>
+             <a href=http://psp.ign.com/>PSP</a>
+             <a href=http://ds.ign.com/>DS</a>
+            <li><a href=http://pspupdates.qj.net/>PSP Updates</a>
+			<li><a href="http://psgroove.com/">PS Groove</a><P>
+            <li><a href="http://www.penny-arcade.com/comic">Penny Arcade</a><p>
+
+<!--            <li class=dto><a href=http://www.xfire.com/profile/>Xfire</a> . . .
+               <a href=http://www.xfire.com/clans/omnipotents/>)o(</a> . . .
+               <a href=http://www.xfire.com/clans/omnitag/>[OMNI]</a>-->
+			<li class=dto><a href=http://www.ps3trophies.com/profile/CantCookWontWin>PS3 trophies.com</a>
+         </ul>
+         </div>
+
+
+
+                                 <!-- SHOPPING -->
+      <div class=shopping>
+         <ul>
+            <LI><A HREF="http://www.easyvalue.com/">easyValue.com</A>
+            <LI><A HREF="http://uk.kelkoo.com/">kelkoo.com</A>
+            <li><a href=http://en.toppreise.ch>Toppreise</a><p>
+
+            <LI><A HREF="http://www.7dayshop.com/">7dayshop.com</A>
+            <LI><A HREF="http://www.amazon.co.uk/">Amazon.co.uk</A>
+            <li><a href="http://www.argos.co.uk/">Argos</a>
+            <li><a href="http://www6.cd-wow.com/">CD Wow</a>
+            <li><a href="http://www.ebay.co.uk">eBay</a>
+            <li><a href="http://www.oneposter.com">OnePoster</a>
+            <li><a href="http://www.play.com">Play.com</a>
+            <LI><A HREF="http://www.richersounds.com">Richer Sounds</A>
+            <li><a href=http://sbb.ch/en/index.htm>SBB</a>
+            <li><a href="http://www.superfi.co.uk">Superfi</a>
+            <li><a href="http://www.thetrainline.com">The Trainline</a><p>
+
+            <LI><A HREF="http://www.cclcomputers.co.uk/">CCL Computers Online</A>
+            <LI><A HREF="http://www.crucial.com/uk/index.asp">Crucial.com</A>
+            <LI><A HREF="http://www.dabs.com/home.asp">dabs.com</A>
+            <li><a href="http://www.ebuyer.com/customer/home/index.html">Ebuyer</a>
+            <li><a href="http://www.kustompcs.co.uk/">Kustom PCs</a>
+            <li><a href="http://www.misco.co.uk">Misco</a>
+            <li><a href="http://www.overclockers.co.uk/">Overclockers.co.uk</a>
+            <li><a href="http://www.quietpc.com/uk/">Quiet PC</a>
+            <LI><A href="http://www.scan.co.uk/">Scan Computers</A><p>
+
+            <LI><A href=http://abboc-shop.concertopro.ch/catalog/index.php>ABBO Informatique</a>
+            <li><a href=http://www.a1outlet.ch/index.php>A1 Outlet</a>
+            <li><a href=http://shop.computer-trade.ch/catalog/index.php>Computer Trade</a>
+            <li><a href=http://www.digitec.ch/>Digitec</a>
+            <li><a href=http://www.internet.ch/>Internet.ch</a>
+            <li><a
+             href=http://site.ch/index.php?cutted=true&lang=en&update_user_lang=true&PEPPERSESS=
+55b184d101a1b6491faae62ddd0d0b0c>site.ch</a>
+         </ul>
+      </div>
+
+
+
+
+         <!--                ACADEMIC                 -->
+      <div class=academic>
+         <ul>
+            <li><a href="https://ubs.okan.edu.tr/login.aspx">UBS</a><p>
+
+            <li><a href="http://www.unifr.ch/">Universit&#233; de Fribourg</a> . . .
+        <a href="https://mail.unifr.ch/">Webmail</a>
+            <li><a href="http://commonweb.unifr.ch/math/">D&#233;partement de math&#233;matiques</a>
+            <li class=dto><a href=http://homeweb2.unifr.ch/hungerbu/pub/>Norbert</a>
+            <li class=dto><a href=http://homeweb2.unifr.ch/ghanaatp/pub/analysis34-0809.html>Analysis
+3&4</a><p>
+
+            <li class=dto><a href="http://www.warwick.ac.uk/">U. Warwick</a>
+            <li class=dto><a href="http://www.maths.warwick.ac.uk/">Mathematics Department</a>
+            <li class=dto><a href="http://www.maths.warwick.ac.uk/%7Etopping">Peter</a><p>
+
+            <li class=dto><a href="http://www.ams.org/mathscinet">MathSciNet</a>
+            <li class=dto><a href="http://www.sciencedirect.com/">ScienceDirect</a>
+            <li class=dto><a href=http://www.ams.org/mrlookup>MR Lookup</a>
+            <li class=dto><a href=http://www.emis.de/ZMATH/>Zentralblatt MATH</a><p>
+
+
+
+            <li class=dto><a href="http://uk.jstor.org/cgi-bin/jstor/listjournal?frame=noframe">JSTOR</a>
+            <li class=dto><a
+href="http://www.springerlink.com/app/home/journal.asp?wasp=733b81336035492aabba9531a3c5f8e9&
+referrer=parent&backto=searchpublicationsresults,1,2;">Calculus of Variations</a>
+            <li class=dto><a
+href="http://www.springeronline.com/sgw/cda/frontpage/0,11855,1-10042-70-1020305-0,00.html"
+               >Mathematische Zeitschrift</a>
+            <li class=dto><a
+href="http://www.springer.com/sgw/cda/frontpage/0,11855,1-10042-70-1030112-detailsPage%253Djournal%
+257Cdescription%
+257Cdescription,00.html">Manuscripta Mathematica</a>
+            <li class=dto><a href=http://www.sns.it/it/edizioni/edizioni/>Scuola Normale Superiore</a>
+
+
+
+         </ul>
+     </div>
+
+
+
+
+
+
+   </div>
+
+
+
+   <div class="columnc">
+
+
+   <div  class="calendar"><center>
+
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=1000&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=8r7o3h0c96gehdn2ckpa5g2p8g%40group.calendar.google.com&amp;color=%237A367A&amp;src=cldq73akesevsetlc6ctr4qfag%40group.calendar.google.com&amp;color=%23711616&amp;src=neilcourse%40gmail.com&amp;color=%232952A3&amp;src=13pk0dc8a5pdul3fj7acasufr8%40group.calendar.google.com&amp;color=%232F6213&amp;src=ja2bqtt7t2b3mtcm5fr972r67o%40group.calendar.google.com&amp;color=%23853104&amp;src=pmc31dj1n5pgu880257tpv21a8%40group.calendar.google.com&amp;color=%232F6213&amp;src=v0rm96amgrf7lu1ooer7t216i8%40group.calendar.google.com&amp;color=%238C500B&amp;src=%23contacts%40group.v.calendar.google.com&amp;color=%237A367A&amp;src=ue7bgistensrjfpl9gn919sg20%40group.calendar.google.com&amp;color=%232F6213&amp;src=0h6s0nklhnu9jf7ku154ugk2ks%40group.calendar.google.com&amp;color=%232F6213&amp;src=uk%40holiday.calendar.google.com&amp;color=%23853104&amp;ctz=Europe%2FIstanbul" style=" border:solid 1px #777 " width="278" height="1000" frameborder="0" scrolling="no"></iframe>
+         </center>
+
+         </div>
+
+
+
+         <!--                MONEY                 -->
+      <div class=money>
+         <!--                CURRENCY CONVERTER              -->
+         <center>
+         <form name="ucc" method="post" action="http://www.xe.com/ucc/convert.cgi">
+         <select name="From" size=5 class=moneyoption>
+            <option value="EUR">Euro -EUR</option>
+            <option value="CHF">Sw Francs -CHF</option>
+            <option value="GBP">Pounds -GBP</option>
+            <option value="USD">Dollars -USD</option>
+            <option value="TRY" SELECTED>Lira -TRY  </option>
+         </select>
+         <select name="To" size=5 class=moneyoption>
+            <option value="EUR">Euro -EUR</option>
+            <option value="CHF">Sw Francs -CHF</option>
+            <option value="GBP" SELECTED>Pounds -GBP</option>
+            <option value="USD">Dollars -USD</option>
+            <option value="TRY">Lira -TRY  </option>
+         </select><br><img src="pixel.gif" width=20 height=5><br>
+         <input type="text" name="Amount" size=10 class=moneybox><img src="pixel.gif"
+           width=20 height=1>
+         <input class="uccsub" type="submit" name="submit" value="Convert"><p>
+         </form></center>
+
+         <UL>
+            <LI><A HREF="https://www.nwolb.com/">NatWest OnLine Banking</A>
+            <li><A HREF="https://esube.teb.com.tr/bireysel/Parola.do?language=en#">TEB Online Banking</A>
+         </UL>
+
+      </div>
+
+
+
+
+
+                                    <!-- WEBSITE -->
+      <div class=website>
+         <ul>
+            <li><a href="http://www.neilcourse.co.uk">www.neilcourse.co.uk</a>
+            <li class=dto><a href="http://www.aufv53.dsl.pipex.com/">www.aufv53.dsl.pipex.com/</a>
+            <li><a href="http://homeweb1.unifr.ch/coursen/Pub/index.html"
+               >homeweb1.unifr.ch/coursen/Pub/</a>
+            <li><a href=https://homedav1.unifr.ch/coursen/>homedav1.unifr.ch/coursen/</a>
+            <LI><A HREF="/C:/Documents and Settings/Neil/My Documents/W/W3/index.html">hard disk</A>
+
+            <li><a
+href="https://admin.1and1.co.uk/xml/config;jsessionid=84CBA2DD3D8F5EED99EBB2B68E218785.TC33a"
+               >1&1 control panel</a>
+         </ul>
+      </div>
+
+
+
+
+
+
+
+
+
+                                    <!-- PHONE -->
+<!--      <div class=phone>
+         <ul>
+
+            <li><a href=https://www.nuevasync.com/PublicSite/user/status.htm>Nuevasync</a>
+         </ul>
+         <div class=topright></div><div class=bottomright></div><div class=topleft></div><div
+class=bottomleft></div>
+      </div></div>-->
+
+
+
+
+   </div> <!--column c -->
+
+
+
+
+
+   <div class=graphs>
+      <img src=http://www.x-rates.com/d/TRY/GBP/graph120.png class=leftgraph>
+      <img src=http://www.x-rates.com/d/GBP/TRY/graph120.png>
+   </div> 
+
+
+<!--
+<center>
+<iframe src="http://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=800&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=neilcourse%40gmail.com&amp;color=%232952A3&amp;src=8r7o3h0c96gehdn2ckpa5g2p8g%40group.calendar.google.com&amp;color=%237A367A&amp;src=cldq73akesevsetlc6ctr4qfag%40group.calendar.google.com&amp;color=%23A32929&amp;src=13pk0dc8a5pdul3fj7acasufr8%40group.calendar.google.com&amp;color=%230D7813&amp;src=pmc31dj1n5pgu880257tpv21a8%40group.calendar.google.com&amp;color=%238D6F47&amp;src=v0rm96amgrf7lu1ooer7t216i8%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=%23contacts%40group.v.calendar.google.com&amp;color=%237A367A&amp;src=t3fgl4kica3g9cqronl0v5ne4iuno7jg%40import.calendar.google.com&amp;color=%23528800&amp;src=0h6s0nklhnu9jf7ku154ugk2ks%40group.calendar.google.com&amp;color=%23528800&amp;src=uk%40holiday.calendar.google.com&amp;color=%23BE6D00&amp;ctz=Europe%2FIstanbul" style=" border:solid 1px #777 " width="800" height="800" frameborder="0" scrolling="no"></iframe>
+</center>
+-->
+
+
+
+
+</div> <!--page-->
+
+
+
+</body>
+
+</HTML>

@@ -1,0 +1,11 @@
+a:link { text-decoration : none; color : #eeeee6; margin-left:7pt; margin-right:7pt; font-weight:600;}
+      a:visited { text-decoration : none; color : #eeeee6; margin-left:7pt; margin-right:7pt; font-weight:600;}
+      a:hover { text-decoration : none; color : #FFAA00; margin-left:7pt; margin-right:7pt; font-weight:600;}
+      a:active { text-decoration : none; color : lime; margin-left:7pt; margin-right:7pt; font-weight:600;}
+      BODY { 
+       margin: 0px;
+       background-color: transparent;
+       font-family: Arial, sans-serif;
+       font-size: 10pt;
+       color: #FFFFFF;
+       text-align: center; }

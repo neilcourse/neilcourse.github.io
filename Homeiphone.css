@@ -1,0 +1,33 @@
+
+
+body {width:100%; background:none; padding:0px; margin:0px;}
+a:link, a:visited          {text-decoration : none; font-family:helvetica,arial,sans-serif;
+                            font-weight:500; font-size:16pt;}
+a:hover                    {text-decoration : none; color : #FF0000; font-family:helvetica,arial,sans-serif;
+                            font-weight:500;}
+
+body, td, div, .p          {font-family:helvetica,arial,sans-serif; padding:0px; margin:0px;}
+
+/* div                        {width:280px; padding:0px 0px 0px 0px; margin:0px; } */
+div.page                   {width:100%; margin:0px; background-color:none; padding:0px; 
+border:0px; height:auto; }
+div.page div, div.page div div  {margin:0px !important; width:100%; min-height:50px; height:auto;}
+div.shoppingleft           {width:50%!important;}
+div.shoppingright          {width:50%!important; height:100%!important;}
+
+
+.googlecalendar            {visibility:hidden; width:0px; height:0px !important;}
+
+div.calendar               {height:0px !important; visibility:hidden; overflow:hidden;
+                            padding:0px; min-height:0px !important;}
+.pair {height:auto;}
+.pair div {margin:0px;}
+
+.box {border:thin solid black; padding:0px;}
+li {margin-left:5px}
+ul {margin-bottom:10px; list-style:disc outside;}
+img {border:0;}
+
+/* .dto,.dto a,.dto li        {overflow:hidden; height:0; width:0; font-size:0pt;} */
+
+

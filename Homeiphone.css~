@@ -1,0 +1,71 @@
+
+
+body {background:none;}
+a:link, a:visited          {text-decoration : none; color : #000000; font-family:helvetica,arial,sans-serif;
+                            font-weight:500;}
+a:hover                    {text-decoration : none; color : #FF0000; font-family:helvetica,arial,sans-serif;
+                            font-weight:500;}
+
+body, td, div, .p          {font-family:helvetica,arial,sans-serif}
+
+div                        {width:99%; padding:0px 0px 0px 0px; margin:-10px; }
+div.page                   {margin:0px; background-color:white; padding:0px; border:0; }
+div.columna                {padding:0px; margin:0px;}
+div.columnb                {padding:0px; margin-left:0px; border:none;}
+div.columnc                {padding:0px; margin-left:0px; border:none;}
+
+.googlecalendar            {visibility:hidden; width:0px; height:0px;}
+
+
+.primary                   {background:#ffff77 ;padding: 15px 10px 10px 10px;}
+.primary a, .primary ul    {color:#444400;}
+.media                     {background:#ff8000; padding: 10px;}
+.media a, .media ul        {color:#662200;}
+.computer                  {background:#40E0D0; padding:10px;}
+.computer a, .computer ul  {color:#008070;}
+.academic                  {background:#999999; padding:10px;}
+.academic a, .academic ul  {color:#444444;}
+.phone                     {background:#ff55cc; padding:10px;}
+.phone a, .phone ul        {color:#660022;}
+.website                   {background:#cc55ff; padding:10px;}
+.website a, .website ul    {color:#550088;}
+.tools                     {height:0px; visibility:hidden; overflow:hidden; background:#FF2222;
+                            text-align:center; color:#FFaaaa; padding:0px;}
+.calendar                  {height:0px; visibility:hidden; overflow:hidden; padding:0px;}
+
+.toolsbox                  {background:#FFCCCC; border:0;}
+.money                     {height:0px; visibility:hidden; overflow:hidden; background:#BB1111; padding:0px;}
+.money a, .money ul        {color:#FF5555;}
+.moneyoption               {background:#BB1111; color:#FFCCCC; border:0;}
+.moneybox                  {background:#FFCCCC; border:0;}
+.games                     {background:#44dd44; padding:10px;}
+.games a, .games ul        {color:#005500;}
+.shopping                  {background:#5555ee; padding:10px;}
+.shopping a, .shopping ul  {color:#000055;}
+.misc                      {background:#AF7817; padding:10px;}
+.misc a, .misc ul          {color:#603000;}
+.photography               {background:#444444; padding:10px 10px 20px 10px;}
+.photography a, .photography ul {color:#cccccc;}
+div.graphs                 {visibility:hidden; height:0px; width:0px;}
+.graphs img                {width:0px; height:0px;}
+.leftgraph                 {margin-right:0px;}
+.box {border:thin solid black; padding:0px;}
+li {margin-left:-15px}
+ul {margin-top:4px; margin-bottom:10px; list-style:circle outside;}
+img {border:0;}
+
+.dto,.dto a,.dto li        {overflow:hidden; height:0; width:0; font-size:0pt;}
+
+
+
+
+/* #####     IMAGE SHADOWS                                       ##### */
+div.shadow {
+  position: relative;
+  margin-top:0px;
+  margin-bottom:10px;
+  margin-left:0px;
+  border:none;
+}
+
+div.topleft, div.topright, div.bottomleft, div.bottomright {border:none; background:none;}
