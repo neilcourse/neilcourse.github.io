@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- ###################################################################### -->
+<!-- #####                                                            ##### -->
+<!-- #####     www.neilcourse.co.uk                                   ##### -->
+<!-- #####     Copyright 2005 - Neil Course                           ##### -->
+<!-- #####     All rights reserved                                    ##### -->
+<!-- #####                                                            ##### -->
+<!-- ###################################################################### -->
+
+<html>
+  <head>
+    <title>MAT 371 - Differential Equations</title>
+
+    <LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=all>
+    <!-- Start iPhone -->
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <!-- <link rel="apple-touch-icon" href="/iphone.png" /> -->
+    <link media="only screen and (max-device-width: 480px)" href="iphone.css" type= "text/css" rel="stylesheet" />
+    <!-- End iPhone -->
+
+
+  </head>
+
+  <body class=gamma>
+
+    <div class=body>
+      <div><h1>MAT 371</h1></div>
+
+      <table class="navbar" border="0" cellspacing="0" cellpadding="0"><tr><td><iframe
+src="navbar.html" scrolling="no" allowtransparency=true
+      class="navbar" frameborder="0"></iframe></td></tr></table><br>
+
+      <div class="infobar">
+          <div>
+         <b>MY OFFICE</b><br>
+         D333
+         </div>
+
+          <div>
+         <b>MID-TERM EXAM</b><br>
+         14/11/2013 10:30-11:30 (room tba)
+         </div>
+
+          <div>
+         <b>FINAL EXAM</b><br>
+         tba
+         </div>
+
+          <div>
+         <b>GRADES</b><br>
+<pre>76 &le; AA     </pre><pre>
+70 &le; BA &lt; 76
+64 &le; BB &lt; 70
+58 &le; CB &lt; 64
+52 &le; CC &lt; 58
+46 &le; DC &lt; 52
+40 &le; DD &lt; 46
+ 0 &le; FF &lt; 40</pre>
+         </div>
+
+      </div>
+
+
+      <div class="main" style="padding-bottom:20px;">
+
+         <div class=divtable>
+           <div><div>Course:</div>
+             <dl>
+               <dd>MAT 371 - <b>Differential Equations</b>, aka <b>Diferansiyel Denklemler</b>
+             </dl>
+           </div>
+
+           <div><div>Teacher:</div>
+             <dl>
+               <dd> Dr. Neil Course
+             </dl>
+           </div>
+
+           <div><div>Suggested Text:</div>
+             <dl>
+
+	    <!--  <dd><img border="0" src="http://ecx.images-amazon.com/images/I/51HczHEEmiL._SL110_.jpg" ></dd>-->
+
+	      <dd>William E. Boyce and Richard C. DiPrima, <i>Elementary Differential Equations and Boundary Value Problems</i>, Wiley.</dd><p>
+
+<!--              <dd>C. Edwards and David Penney, <i>Elementary Differential Equations with Boundary Value Problems</i>, Pearson.</dd>
+	      (<a
+href="http://www.amazon.co.uk/gp/product/0470398736/ref=as_li_tf_tl?ie=UTF8&tag=neicou-21&linkCode=as2&camp=1634&
+creative=6738&creativeASIN=0470398736">amazon</a><img
+src="http://www.assoc-amazon.co.uk/e/ir?t=neicou-21&l=as2&o=2&a=0470398736" width="1" height="1" border="0" alt=""
+style="border:none !important; margin:0px !important;" />)<p></dd>-->
+
+             </dl>
+	  </div>
+
+           <div><div>Contents:</div>
+             <dl>
+               <dd> Homework 25%
+               <dd> Mid-Term Exam 25%
+               <dd> Final Exam 50%
+             </dl>
+           </div>
+
+           <div><div>Lectures:</div>
+             <dl>
+               <dd> Wednesday 11:00-13:00 in room D410;
+               <dd> Thursday 11:00-12:00 in room D409.
+
+             </dl>
+           </div>
+
+           <div><div>Office Hours:</div>
+             <dl>
+               <dd>Tuesday 12:00--12:30;
+               <dd>Thursday 12:00-13:00.
+             </dl>
+           </div>
+
+           <div><div>Handouts:</div>
+            <dl>
+              <dd>Course Information:
+              <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/2013-14_ODEs_information.pdf?dl=1"
+              class="file">download</a></dd><p>
+
+               <dd>Direction Fields:
+              <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/2013-14_ODEs_directionfields.pdf?dl=1"
+              class="file">download</a></dd><p>
+
+
+             </dl>
+           </div>
+
+
+
+           <div><div>Demonstrations:</div>
+             <dl>
+               <dd><small>To view the demonstrations, you will need the free <a
+href=http://www.wolfram.com/cdf-player/>CDF player</a>.</small><p>
+
+	       <dd> Numerical Methods For Differential Equations: <a href="http://demonstrations.wolfram.com/NumericalMethodsForDifferentialEquations/" class=file>link</a>
+             </dl>
+           </div>
+
+
+           <div><div>Homework:</div>
+            <dl>
+              <dd>&Ouml;dev 1 (due 2 October):
+              <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/2013-14_ODEs_odev_1.pdf?dl=1"
+              class="file">download</a></dd><p>
+
+              <dd>&Ouml;dev 2 (due 23 October):
+              <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/2013-14_ODEs_odev_2.pdf?dl=1"
+              class="file">download</a></dd><p>
+ 
+              <dd>&Ouml;dev 3 (due 30 October):
+              <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/2013-14_ODEs_odev_3.pdf?dl=1"
+              class="file">download</a></dd><p>
+ 
+
+                
+              </dl>
+           </div>
+
+
+           <div><div>Past Exams:</div>
+             <dl>
+	       <dd> 2010-11 Mid-Term Exam:
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_ODEs_midterm.pdf?dl=1"
+               class="file">download</a></dd><p>
+
+	       <dd> 2010-11 Final Exam:
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2010-11_ODEs_final.pdf?dl=1"
+               class="file">download</a></dd>
+               <dd> (solutions : 
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol3.jpg?dl=0>3</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol4.jpg?dl=0>4</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol5.jpg?dl=0>5</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol6.jpg?dl=0>6</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol7.jpg?dl=0>7</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol8.jpg?dl=0>8</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol9.jpg?dl=0>9</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol10.jpg?dl=0>10</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol11.jpg?dl=0>11</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2010-11_ODEs_final_sol12.jpg?dl=0>12</a>)
+               <p>
+
+	       <dd> 2011-12 Mid-Term Exam:
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2011-12_ODEs_midterm.pdf?dl=1"
+               class="file">download</a> 
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_midterm_sol.pdf?dl=1"
+               class="file">(solutions)</a><p>
+               
+	       <dd> 2011-12 Final Exam:
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/2011-12_ODEs_final.pdf?dl=1"
+               class="file">download</a></dd>
+               <dd> (solutions : 
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol3.jpg?dl=0>3</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol4.jpg?dl=0>4</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol5.jpg?dl=0>5</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol6.jpg?dl=0>6</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol7.jpg?dl=0>7</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol8.jpg?dl=0>8</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol9.jpg?dl=0>9</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol10.jpg?dl=0>10</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol11.jpg?dl=0>11</a>
+               <a href=http://dl.neilcourse.co.uk/u/12426/teaching/ODEs_ExamSolutions/2011-12_ODEs_final_sol12.jpg?dl=0>12</a>
+               )<p>
+
+	       <dd> 2012-13 Mid-Term Exam:
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/Exams/2012-13_ODEs_midterm.pdf?dl=1"
+               class="file">download</a> 
+               <a
+		href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/Exams/2012-13_ODEs_midterm_sol.pdf?dl=1"
+               class="file">(solutions)</a><p>
+
+	       <dd> 2012-13 Final Exam:
+               <a href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/Exams/2012-13_ODEs_final.pdf?dl=1"
+               class="file">download</a> 
+               <a
+		href="http://dl.neilcourse.co.uk/u/12426/teaching/ODEs/Exams/2012-13_ODEs_final_sol.pdf?dl=1"
+               class="file">(solutions)</a><p>
+
+
+             </dl>
+           </div>
+         </div>   <!-- end of divtable -->
+      </div>
+
+
+      <table class="navbar" border="0" cellspacing="0" cellpadding="0"><tr><td><iframe src="navbar.html" scrolling="no"
+      class="navbar" frameborder="0" allowtransparency="true"></iframe></td></tr></table><br>
+      <div class="footer">
+         <iframe src="footer.html" scrolling="no" frameborder="0" class="footer"
+         allowtransparency=true></iframe>
+      </div>
+      <div class="counter">
+
+
+
+      </div>
+   </div>
+
+
+
+
+  </body>
+  <address>www.neilcourse.co.uk</address>
+</html>
+

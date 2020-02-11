@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- ###################################################################### -->
+<!-- #####                                                            ##### -->
+<!-- #####     www.neilcourse.co.uk                                   ##### -->
+<!-- #####     Copyright 2005 - Neil Course                           ##### -->
+<!-- #####     All rights reserved                                    ##### -->
+<!-- #####                                                            ##### -->
+<!-- ###################################################################### -->
+
+<html>
+  <head>
+    <title>Neil Course - Teaching</title>
+
+    <LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=all>
+    <!-- Start iPhone -->
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <!-- <link rel="apple-touch-icon" href="/iphone.png" /> -->
+    <link media="only screen and (max-device-width: 480px)" href="iphone.css" type= "text/css" rel="stylesheet" />
+    <!-- End iPhone -->
+    <base href=http://dl.neilcourse.co.uk/u/12426/>
+
+
+  </head>
+
+  <body class=gamma>
+
+    <div class=body>
+      <div><h1>Teaching</h1></div>
+
+      <table class="navbar" border="0" cellspacing="0" cellpadding="0"><tr><td><iframe
+      src="navbar.html" scrolling="no" allowtransparency=true
+      class="navbar" frameborder="0"></iframe></td></tr></table><br>
+
+      <div class="infobar">
+          <div>
+         <b>MY OFFICE</b><br>
+         Fen Edebiyat Fakultesi, 4. kat, oda 22.
+         </div>
+
+      </div>
+
+
+      <div class="main">
+
+<!--         <h7>2012-13 Spring Semester:</h7></a>
+         <dl style="margin-bottom:40px;">
+
+            <dd><a href="mat234.html">MAT234 - Matematik IV</a></dt><p>
+
+            <dd><a href="mat372.html">MAT372 - Partial Differential Equations</a></dt><p>
+
+            <dd><a href="mat462.html">MAT462 - Functional Analysis II</a></dt><p>
+
+         </dl>-->
+
+
+
+         <h7>2013-14 Autumn Semester:</h7></a>
+         <dl style="margin-bottom:40px;">
+
+            <dd><a href="mat233.html">MAT233 - Calculus III</a></dt><p>
+
+            <dd><a href="mat371.html">MAT371 - Differential Equations</a></dt><p>
+
+            <dd><a href="mat461.html">MAT461 - Functional Analysis I</a></dt><p>
+
+         </dl>
+
+
+
+<!--         <h7>2010-11 Spring Semester:</h7></a>
+         <dl style="margin-bottom:40px;">
+
+            <dd>MATH112 - Calculus II</dt><p>
+
+            <dd>MAT372  - Partial Differential Equations</dt><p>
+
+            <dd>MAT432  - Real Analysis</dt><p>
+
+
+         </dl>-->
+
+      </div>
+
+
+      <table class="navbar" border="0" cellspacing="0" cellpadding="0"><tr><td><iframe src="navbar.html" scrolling="no"
+      class="navbar" frameborder="0" allowtransparency="true"></iframe></td></tr></table><br>
+      <div class="footer">
+         <iframe src="footer.html" scrolling="no" frameborder="0" class="footer"
+         allowtransparency=true></iframe>
+      </div>
+      <div class="counter">
+
+
+
+      </div>
+   </div>
+
+  </body>
+  <address>www.neilcourse.co.uk</address>
+</html>
+
