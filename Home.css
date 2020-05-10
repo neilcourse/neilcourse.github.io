@@ -118,6 +118,7 @@ li {margin: 0px 25px 0px -15px; display: -webkit-flex; /* Safari */
   -webkit-justify-content: space-around; /* Safari 6.1+ */
   display: flex;justify-content: space-between;}
 ul {margin-top:10px; margin-bottom:10px; list-style:circle outside;}
+ul.small li {margin: -7px 0px 0px -15px !important;}
 img {border:0;}
 
 table.bottom {margin-top:100px;
