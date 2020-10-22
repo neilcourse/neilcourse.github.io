@@ -101,6 +101,8 @@ div.shopping               {height:580px;
 div.shoppingleft           {background:#5555ee; opacity:0.8;  float:left!important; width:140px!important; margin:0px!important; height:580px; }
 div.shoppingright          {background:#7777ff; opacity:0.8;  float:left!important; width:140px!important; margin:0px!important; height:580px; }
 .shopping a, .shopping ul  {color:#000055;}
+.weather                   {background:#1f567c; opacity:1;}
+.weather a, .weather ul    {color:#603000;}
 .misc                      {background:#AF7817; opacity:0.8;}
 .misc a, .misc ul          {color:#603000;}
 .photography               {background:#444444; opacity:0.8;}
