@@ -77,10 +77,9 @@ div.academic               {background:#999999; opacity:0.8;}
 .system a, .system ul      {color:#aaaa00;}
 .website                   {background:#aa33ff; opacity:0.8;}
 .website a, .website ul    {color:#550088;}
-.ela               		   {background:#FFB6C1; opacity:0.8;}
-.ela a, .ela ul    			{color:#C71585;}
-div.tools                   {background:#FF2222; opacity:0.8; /*height:580px;*/
-                            text-align:center; color:#FFaaaa;}
+.ela                       {background:#FFB6C1; opacity:0.8;}
+.ela a, .ela ul            {color:#C71585;}
+div.tools                  {background:#FF2222; opacity:0.8; text-align:center; color:#FFaaaa;}
 .toolsbox                  {background:#FFCCCC; border:0; color:black;}
 .langtolangoption          {background:#FF2222; color:#FFCCCC; border:0;}
 div.calendar               {background:#ffffff; padding:0px; opacity:0.8; height:580px;}
