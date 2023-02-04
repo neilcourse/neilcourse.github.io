@@ -30,4 +30,6 @@ img {border:0;}
 
 /* .dto,.dto a,.dto li        {overflow:hidden; height:0; width:0; font-size:0pt;} */
 
+img.icon {width: 60px!important; height: 60px!important; padding:8px; padding-top:8px;}
+
 
