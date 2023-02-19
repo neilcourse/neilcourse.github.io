@@ -23,8 +23,8 @@ div.calendar               {height:0px !important; visibility:hidden; overflow:h
 .pair {height:auto;}
 .pair div {margin:0px;}
 
-.box {border:thin solid black; padding:0px;}
-li {margin-left:-25px!important; margin-right:0px!important;}
+.box {border:thin solid black; padding:5px;}
+li {margin-left:-25px!important; margin-bottom:0px!important;}
 ul {margin-bottom:10px; list-style:disc outside;}
 img {border:0;}
 
