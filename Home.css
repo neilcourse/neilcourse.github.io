@@ -98,9 +98,15 @@ a.spring                   {font-weight:bold;}
 div.shopping               {height:580px; padding:0px!important; 
 /*     background:white; */
     }
-div.shoppingleft           {background:#5555ee; opacity:0.8;  float:left!important; width:140px!important; margin:0px!important; height:580px;  postion:relative;}
-div.shoppingright          {background:#7777ff; opacity:0.8;  float:left!important; width:140px!important; margin:0px!important; height:580px; }
-div.airlines               {background:#9292ff; float:bottom!important; width:140px!important; margin:0px!important; min-height:80px!important;}
+div.shoppingleft           {background:#5555ee; opacity:0.8;  float:left!important; width:140px!important; 
+							margin:0px!important; height:580px;  postion:relative;}
+div.shoppingright          {background:#7777ff; opacity:0.8;  float:left!important; width:140px!important; 
+							margin:0px!important; height:580px; }
+div.left					{background: rgba(255,255,255,.05);  float:left!important; width:140px!important; 
+							margin:0px!important; postion:relative;}
+div.right          			{ float:left!important; width:140px!important; 
+							margin:0px!important;}
+div.airlines				{background:#9292ff; float:bottom!important; width:140px!important; margin:0px!important; min-height:80px!important;}
 .shopping a, .shopping ul  {color:#000055;}
 /* .airlines a, .airlines ul  {color:#000011!important;}  */
 .weather                   {background:#1f567c; opacity:1;}
