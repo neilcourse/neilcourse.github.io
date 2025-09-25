@@ -63,6 +63,7 @@ div.columnd                {margin-left:898px; padding:0px; border:none;}*/
 /* .columnd div               {margin-bottom:20px; height:240px;} */
 /* .columnc div:hover         {opacity:0.8;} */
 div.double                 {height:580px;}
+div.work         	       {background:#eeeeee; opacity:0.8; height:580px;}
 div.primary                {background:#ffff77; opacity:0.8; height:580px;}
 .primary a, .primary ul    {color:#444400;}
 .media                     {background:#ff8000; opacity:0.8;}
